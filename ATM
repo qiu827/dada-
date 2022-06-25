@@ -306,7 +306,7 @@ int main()
 		case 2:Enroll(user);
 			break;
 
-		case 3:printf("感谢使用，再见！\n");
+		案例 3：printf（“感谢使用，再见！！\n”）;
 			return 0;
 
 		case 4:Show_accounts(user);
